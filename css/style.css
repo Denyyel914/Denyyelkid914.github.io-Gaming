@@ -126,4 +126,8 @@ img {
         font-size: 1.6rem;
 
     }
+
+    .section-gaming, .section-gaming2 {
+        height: 70vh;
+    }
 }
