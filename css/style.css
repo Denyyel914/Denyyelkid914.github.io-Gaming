@@ -106,6 +106,10 @@ body {
     text-transform: uppercase;
 }
 
+.section-gaming2 h2 {
+    margin-bottom: 1rem;
+}
+
 img {
     width: 110px;
 }
