@@ -115,7 +115,7 @@ img {
 @media(max-width: 760px) {
     .cards {
         grid-template-columns: 1fr;
-        padding: 0 2rem;
+        padding: 2rem;
     }
 
     .section-gaming h2, .section-gaming2 h2 {
